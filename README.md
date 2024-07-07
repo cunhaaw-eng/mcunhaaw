@@ -1,15 +1,6 @@
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-cunha-730ab9224/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-</div>
-
-###
-
-###
-
-<h1 align="center">Hi, I'm Matheus Cunha👋</h1>
+<h1 align="center">Hi, I'm Matheus Cunha</h1>
 
 ###
 
@@ -17,7 +8,7 @@
 - I´m 19y/o, living in São Paulo - Brazil <br>
 - I´m graduating in Software Enginnering, at USJT (Universidade São Judas Tadeu). <br>
 - My projecs is based on data enginnering. <br>
-- My hobby is playing keyboard on church. I love music and worship God. <br>
+- I´m a music enthusiastic. My hobby is playing keyboard on church, because I adore worshipping God. <br>
 
 ### Tech Stack:
 - Web Development <br>
