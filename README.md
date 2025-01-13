@@ -7,7 +7,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 - I´m 19y/o, living in São Paulo - Brazil <br>
 - I´m graduating in Software Enginnering, at USJT (Universidade São Judas Tadeu). <br>
-- My projecs is based on data enginnering. <br>
+- My projecs is based on data analytics. <br>
 - I´m a music enthusiastic. My hobby is playing keyboard on church, because I adore worshipping God. <br>
 
 ### Tech Stack:
