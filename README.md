@@ -15,16 +15,11 @@
 
 - Data Management: <br>
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white);
-![PL/SQL](https//img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black);
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black&nbsp)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=white&style=for-the-badge)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)&nbsp;
-
-- Web Development <br>
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white);
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB);
 
 ### 
 <div align="center">
